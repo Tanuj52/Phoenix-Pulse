@@ -1,46 +1,123 @@
 {
   "status": "ok",
-  "totalResults": 4,
+  "totalResults": 9,
   "articles": [
     {
-      "source": { "id": "news24", "name": "News24" },
-      "author": "Khanyiso Tshwaku",
-      "title": "'A lot of cricket to be played,' warns Markram as Pakistan, NZ throw cat among WTC pigeons",
-      "description": "The Proteas' stand-in Test captain, Aiden Markram, is kept grounded by the fact they still have their World Test Championship final fate in their own hands ahead of Tuesday's second Test against Bangladesh in Chattogram.",
-      "url": "https://www.news24.com/sport/cricket/proteas/a-lot-of-cricket-to-be-played-warns-markram-as-pakistan-nz-throw-cat-among-wtc-pigeons-20241028",
-      "urlToImage": "https://cdn.24.co.za/files/Cms/General/d/12021/2d2f85cae93e45979a23433ace864f64.jpg",
-      "publishedAt": "2024-10-28T20:43:44",
-      "content": "The Proteas' stand-in Test captain, Aiden Markram, is kept grounded by the fact they still have their World Test Championship final fate in their own hands ahead of Tuesday's second Test against Bang… [+20 chars]"
+      "source": {
+        "id": "il-sole-24-ore",
+        "name": "Il Sole 24 Ore"
+      },
+      "author": "Leopoldo Benacchio",
+      "title": "Nasa, ecco cosa c’è nel bilancio da 25,4 mld $ per la corsa allo spazio",
+      "description": "Pubblicato il Fiscal Year 2023: gli Stati Uniti puntano a mantenere la leadership tra collaborazioni con SpaceX e distribuzione delle risorse",
+      "url": "https://www.ilsole24ore.com/art/nasa-ecco-cosa-c-e-bilancio-254-mld-%24-la-corsa-spazio-AG8f06o",
+      "urlToImage": "https://i2.res.24o.it/images2010/S24/Documenti/2024/10/30/Immagini/Ritagli/block1_cargo_leavingearth-1024x724-k5BF--1440x752@IlSole24Ore-Web.jpeg?r=1170x507",
+      "publishedAt": "2024-10-29T13:59:55Z",
+      "content": "Pensiamo sempre a razzi e satelliti quando si parla di spazio, ma unAgenzia come Nasa ha una attività molto più articolata. Una delle missioni più importanti che le sono affidate è quella di procurar… [+3179 chars]"
     },
     {
-      "source": { "id": "bbc-sport", "name": "BBC Sport" },
-      "author": null,
-      "title": "England in Pakistan: Andy Zaltzman on the statistics behind hosts' remarkable comeback series win",
-      "description": "Comedian and BBC cricket statistician Andy Zaltzman looks at the statistics behind Pakistan's remarkable comeback against England to win the Test series.",
-      "url": "http://www.bbc.co.uk/sport/cricket/articles/cqlr55d5g3xo",
-      "urlToImage": "https://ichef.bbci.co.uk/news/1024/branded_sport/bcda/live/e8c8ed80-9527-11ef-b625-ed49b635f0e5.jpg",
-      "publishedAt": "2024-10-28T13:07:17.8745227Z",
-      "content": "Never before had a pair of bowlers taken 39 wickets in a two-Test sequence, as the series-discombobulating pair of Noman Ali and Sajid Khan achieved this month.\r\nIn 1956, Englands Jim Laker and Tony … [+1905 chars]"
+      "source": {
+        "id": "associated-press",
+        "name": "Associated Press"
+      },
+      "author": "JON GAMBRELL",
+      "title": "Satellite photos show Israeli strike likely hit important Iran Revolutionary Guard missile base",
+      "description": "DUBAI, United Arab Emirates (AP) — Israel’s attack on Iran likely damaged a base run by the paramilitary Revolutionary Guard that builds ballistic missiles and launches rockets as part of its own space program, satellite images analyzed by The Associated Pres…",
+      "url": "https://apnews.com/b9cdb18b252d6dd9014dc4dcb3dd4b2f",
+      "urlToImage": "https://storage.googleapis.com/afs-prod/media/9274718ef61945da8a2d97e2bff582b6/1559.jpeg",
+      "publishedAt": "2024-10-29T12:20:58Z",
+      "content": "DUBAI, United Arab Emirates (AP) — Israel’s attack on Iran likely damaged a base run by the paramilitary Revolutionary Guard that builds ballistic missiles and launches rockets as part of its own spa… [+6574 chars]"
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
-      "author": null,
-      "title": "PCB hands Umar Akmal three-year ban from all cricket | ESPNcricinfo.com",
-      "description": "Penalty after the batsman pleaded guilty to not reporting corrupt approaches | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/29103103/pcb-hands-umar-akmal-three-year-ban-all-cricket",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1099495_800x450.jpg",
-      "publishedAt": "2020-04-27T11:41:47Z",
-      "content": "Umar Akmal's troubled cricket career has hit its biggest roadblock yet, with the PCB handing him a ban from all representative cricket for three years after he pleaded guilty of failing to report det… [+1506 chars]"
+      "source": {
+        "id": "the-washington-post",
+        "name": "The Washington Post"
+      },
+      "author": "Michael Scherer, Josh Dawsey",
+      "title": "Elon Musk is the October surprise of the 2024 election",
+      "description": "The billionaire Tesla and SpaceX CEO, and owner of X, has interjected himself into a presidential race like no other titan before him.",
+      "url": "https://www.washingtonpost.com/politics/2024/10/29/elon-musk-october-election-trump/",
+      "urlToImage": "https://www.washingtonpost.com/wp-apps/imrs.php?src=https://arc-anglerfish-washpost-prod-washpost.s3.amazonaws.com/public/26C2NQNX23AAWPBCSRXAPSYJBI_size-normalized.jpg&w=1440",
+      "publishedAt": "2024-10-29T10:00:33Z",
+      "content": "No American billionaire has played politics like Elon Musk.\r\nHe is not the first to seed vanity super PACs with nine-figure sums or work his candidate relationships for policies and government appoin… [+195 chars]"
     },
     {
-      "source": { "id": "espn-cric-info", "name": "ESPN Cric Info" },
+      "source": {
+        "id": "les-echos",
+        "name": "Les Echos"
+      },
+      "author": "Les Echos",
+      "title": "Aéronautique : Safran renforce ses moyens pour ses moteurs Leap",
+      "description": "Le plan d'ampleur dévoilé par le fabricant français de moteurs d'avion est destiné à répondre à la forte demande pour les Leap, qu'il coproduit avec GE Aerospace pour Airbus et Boeing.",
+      "url": "https://www.lesechos.fr/monde/enjeux-internationaux/le-fil-info-les-principales-informations-de-ce-mardi-29-octobre-2024-2128364",
+      "urlToImage": "https://media.lesechos.com/api/v1/images/view/6720b897e1ff66622e4fdd49/1280x720/01203399123779-web-tete.jpg",
+      "publishedAt": "2024-10-29T06:52:58Z",
+      "content": "Vie des entreprises, budget 2025, guerres en Ukraine et au Proche-Orient Retrouvez les principales informations de ce vendredi 25 octobre.\r\n&gt; Les principales informations de ce vendredi 25 octobre… [+21666 chars]"
+    },
+    {
+      "source": {
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "author": "Brian Wang",
+      "title": "Boeing Space Business is For Sale | NextBigFuture.com",
+      "description": "Boeing is trying to sell the Starliner spacecraft and the ISS support operations that the company performs.",
+      "url": "https://www.nextbigfuture.com/2024/10/boeing-space-business-is-for-sale.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/10/starlinersale.jpg",
+      "publishedAt": "2024-10-25T20:30:37Z",
+      "content": "Brian Wang is a Futurist Thought Leader and a popular Science blogger with 1 million readers per month. His blog Nextbigfuture.com is ranked #1 Science News Blog. It covers many disruptive technology… [+593 chars]"
+    },
+    {
+      "source": {
+        "id": "next-big-future",
+        "name": "Next Big Future"
+      },
+      "author": "Brian Wang",
+      "title": "SpaceX Starship Catch Means Out Big Dreams for Space Will Happen | NextBigFuture.com",
+      "description": "The future of Space with a fully reusable SpaceX Starship means everything about space will become huge. Our dreams for space were unfulfilled for decades. We",
+      "url": "https://www.nextbigfuture.com/2024/10/spacex-starship-catch-means-out-big-dreams-for-space-will-happen.html",
+      "urlToImage": "https://nextbigfuture.s3.amazonaws.com/uploads/2024/10/Screenshot-2024-10-23-at-10.19.04-AM.jpg",
+      "publishedAt": "2024-10-23T17:35:02Z",
+      "content": "The future of Space with a fully reusable SpaceX Starship means everything about space will become huge. Our dreams for space were unfulfilled for decades. We could only put tiny satellites into spac… [+1916 chars]"
+    },
+    {
+      "source": {
+        "id": "the-next-web",
+        "name": "The Next Web"
+      },
+      "author": "Linnea Ahlgren",
+      "title": "3D-printed rocket engine revs up for orbital launch in Scotland",
+      "description": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\n\r\nThe new design features an ...",
+      "url": "http://thenextweb.com/news/3d-printed-rocket-engine-revs-up-orbital-launch-scotland",
+      "urlToImage": "https://img-cdn.tnwcdn.com/image/tnw-blurple?filter_last=1&fit=1280%2C640&url=https%3A%2F%2Fcdn0.tnwcdn.com%2Fwp-content%2Fblogs.dir%2F1%2Ffiles%2F2023%2F06%2F70-kn-engine-1-1-1024x576-1-e1687258568667.jpg&signature=e504e335f8babf0e24721de9198d4fb6",
+      "publishedAt": "2023-06-20T12:00:47Z",
+      "content": "Edinburgh-based aerospace startup Skyrora announced yesterday it had commenced a series of full-duration tests of its updated 3D-printed 70kN engine. \r\nThe new design features an improved engine cool… [+3908 chars]"
+    },
+    {
+      "source": {
+        "id": "new-scientist",
+        "name": "New Scientist"
+      },
       "author": null,
-      "title": "What we learned from watching the 1992 World Cup final in full again | ESPNcricinfo.com",
-      "description": "Wides, lbw calls, swing - plenty of things were different in white-ball cricket back then | ESPNcricinfo.com",
-      "url": "http://www.espncricinfo.com/story/_/id/28970907/learned-watching-1992-world-cup-final-full-again",
-      "urlToImage": "https://a4.espncdn.com/combiner/i?img=%2Fi%2Fcricket%2Fcricinfo%2F1219926_1296x729.jpg",
-      "publishedAt": "2020-03-30T15:26:05Z",
-      "content": "Last week, we at ESPNcricinfo did something we have been thinking of doing for eight years now: pretend-live ball-by-ball commentary for a classic cricket match. We knew the result, yes, but we tried… [+6823 chars]"
+      "title": "SpaceX launches Starlink V2 satellites to increase internet capacity",
+      "description": "A new generation of Starlink’s internet satellites will orbit at low altitudes and eventually re-enter Earth’s atmosphere, limiting the amount of clutter in orbit",
+      "url": "https://www.newscientist.com/article/2361798-spacex-launches-starlink-v2-satellites-to-increase-internet-capacity/",
+      "urlToImage": "https://images.newscientist.com/wp-content/uploads/2023/02/28135738/SEI_146185094.jpg",
+      "publishedAt": "2023-02-28T00:00:00Z",
+      "content": "By Chris Stokel-Walker\r\nThe Starlink launch at Cape Canaveral, Florida, on 27 February 2023\r\nSpaceX\r\nA rocket carrying 21 new generation Starlink satellites successfully launched into orbit at 6:13pm… [+2305 chars]"
+    },
+    {
+      "source": {
+        "id": "national-geographic",
+        "name": "National Geographic"
+      },
+      "author": "Nadia Drake",
+      "title": "How these feuding map-makers shaped our fascination with Mars",
+      "description": "One was an artist who loved space. His rival was a bold professional astronomer. Their race to map the red planet sparked decades of science and speculation.",
+      "url": "https://www.nationalgeographic.com/science/2021/02/how-feuding-map-makers-shaped-our-fascination-with-mars.html",
+      "urlToImage": "https://pmdvod.nationalgeographic.com/NG_Video/788/579/smpost_1612381336455.jpg",
+      "publishedAt": "2021-02-17T14:37:21.3706142Z",
+      "content": null
     }
   ]
 }
